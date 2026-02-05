@@ -2,16 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Joshua Terry`
+- **CCID:** `jrterry`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- `https://firebase.google.com/docs/firestore/manage-data/delete-data`
+- `https://www.geeksforgeeks.org/android/how-to-delete-data-from-firebase-realtime-database-in-android/`
 
 ## Verbal Collaboration
 
-| Student Name | CCID     |
-| ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+N/A
